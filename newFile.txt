@@ -1,0 +1,1 @@
+This file is added to the new branch, which is then merged into the original branch.
